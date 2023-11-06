@@ -1,3 +1,5 @@
+discord - good_input
+
 <!-- # 🏦 Basic Bank -->
 
 A simple-interest yielding bank account in Leo.
